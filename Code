@@ -47,10 +47,10 @@ li a.active {
 <body>
 
 <ul>
-  <li><a class="active"a href="Home Page.html">Home</a></li>
-  <li><a href="Scratch.html">Scratch</a></li>
-  <li><a href="App Inventor.html">App Inventor</a></li>
-  <li><a href="About Us.html">About Us</a></li>
+  <li><a class="active"a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/HomePage/blob/master/Code">Home</a></li>
+  <li><a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/Scratch/blob/master/Code">Scratch</a></li>
+  <li><a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/AppInventor/blob/master/Code">App Inventor</a></li>
+  <li><a href="http://htmlpreview.github.io/?https://github.com/BarkIndutress/AboutUs/blob/master/Code">About Us</a></li>
 </ul>
 
 
