@@ -60,9 +60,9 @@ li a.active {
               <th width=485 height=75 align=center><font size=10>Ruby's Adventure</th>
     </tr>
     <tr>
-        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/79247128/?autostart=true" frameborder="0" <allowfullscreen></iframe></td>
-        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/78641180/?autostart=true" frameborder="0" <allowfullscreen></iframe></td>
-        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/80355958/?autostart=true" frameborder="0" <allowfullscreen></iframe></td>
+        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/79247128/?autostart=true" frameborder="0" <allowfullscreen>></iframe></td>
+        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/78641180/?autostart=true" frameborder="0" <allowfullscreen>></iframe></td>
+        <td width=485 align=center><iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/80355958/?autostart=true" frameborder="0" <allowfullscreen>></iframe></td>
     </tr>
      <tr>
     <td width=485 align=left> Simply Dodge the ball. Press W to accelerate forward. Press S to slow down or move backwards. Press A to spin counter clockwise. Press D to spin Clockwise.<br>
